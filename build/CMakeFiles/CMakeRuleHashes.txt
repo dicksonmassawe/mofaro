@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a3bcc03fcd73393a91aaa0c0dbbc4b28 CMakeFiles/mofaro_uninstall

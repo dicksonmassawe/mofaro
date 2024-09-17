@@ -1,0 +1,9 @@
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/install/strip.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/install/local.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/install.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/list_install_components.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/rebuild_cache.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/edit_cache.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/test.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/mofaro_uninstall.dir
+/home/dicksonmassawe/Documents/Robotics/mofaro/build/CMakeFiles/uninstall.dir
