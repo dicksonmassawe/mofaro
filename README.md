@@ -1,7 +1,20 @@
-## Robot Package Template
 
-This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
+# Autonomous Agricultural Robot
 
-It is recommended that you keep the repo/package name the same, but if you do change it, ensure you do a "Find all" using your IDE (or the built-in GitHub IDE by hitting the `.` key) and rename all instances of `mofaro` to whatever your project's name is.
+This repository contains the ROS 2 code for an autonomous center-articulated robot designed for precision farming. The robot features 4 wheels, each attached to a motor, and is intended for use in orchards and vegetable farms. It operates autonomously, without the need for human control, to perform a variety of agricultural tasks such as spraying fertilizers, herbicides, and pesticides, as well as crop phenotyping.
 
-Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
+## Features
+- Center-Articulated Design: Ensures agility and ease of navigation in complex farm environments, especially orchards and vegetable farms.
+- Autonomous Spraying: Capable of performing fertilizer, herbicide, and pesticide spraying without human intervention.
+- Crop Phenotyping: Provides analysis of crops to improve decision-making and management practices.
+- Farm Suitability: Specifically designed for orchards and vegetable farms but adaptable to other types of agriculture.
+
+
+## Future Updates
+- Crop Health Monitoring**: Planned integration of cameras and sensors to monitor crop health and growth.
+- AI Decision Making**: The system will use AI to optimize spraying and phenotyping based on real-time data.
+- Data Collection**: Future updates will include data logging for historical analysis and predictive decision-making.
+
+## Contributing
+Contributions are welcome. Fork the repository and submit a pull request with your improvements or fixes.
+
