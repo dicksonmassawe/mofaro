@@ -6,9 +6,9 @@
   <xacro:include filename="colors.xacro" />
   <xacro:include filename="gazebo_control.xacro" />
 
-  <!-- Base Link-->
+  <!-- Base Link -->
   <link name="base_link">
-  </link>
+  </link> 
 
   <!-- Rear Chassis -->
   <link name="rear_chassis">
@@ -51,6 +51,14 @@
     </collision>
 
   </link>
+
+  <joint 
+  name="rear_chassis_joint" 
+  type="fixed">
+    <parent link="base_link" />
+    <child link="rear_chassis" />
+    <origin xyz="0.625 0 0.790" />
+  </joint>
 
   <gazebo reference="rear_chassis">
 		<material>Gazebo/green</material>
